@@ -42,11 +42,7 @@ Netflix Titles: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb
 - **Microsoft Excel** (for preprocessing, if needed)  
 - **Python / Pandas** *(optional for analysis outside Power BI)*
 
-## 📌 Preview
-
-*(Add screenshot of your dashboard here if desired)*
-
 ## 👨‍💻 Author
 
-Ken | [Oracle DBA & Aspiring Data Analyst]  
+Anupam Yadav | [Data Analyst]  
 Feel free to connect for collaborations!
